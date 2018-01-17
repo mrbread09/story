@@ -1632,119 +1632,21 @@ body {
 .cid-qFunLNFlf2 .underline B {
   color: #ffffff;
 }
-.cid-qGXGUAXHPZ {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/batch-3-1280x853.jpg");
+.cid-qGY3x4rV5d {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #232323;
 }
-.cid-qGXGUAXHPZ .text {
-  letter-spacing: 0.03em;
-  line-height: 1.7;
-}
-.cid-qGXGUAXHPZ .mbr-text {
-  width: 100%;
-  height: auto;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-qGXGUAXHPZ .row {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  .cid-qGXGUAXHPZ .content {
-    flex: 0 0 100%;
-    max-width: 100%;
-    margin-left: 0;
-  }
-}
-.cid-qGXGUAXHPZ .mbr-section-title {
+.cid-qGY3x4rV5d .mbr-section-title {
+  margin: 0;
+  padding: 15px 0;
   color: #ffffff;
-  text-align: center;
 }
 #custom-html-18 {
   /* Type valid CSS here */
 }
 #custom-html-18 .my-image {
   width: 100%;
-}
-.cid-qFuy4loJsL {
-  padding-top: 45px;
-  padding-bottom: 15px;
-  background-color: #efefef;
-}
-.cid-qFuy4loJsL .card {
-  padding: 1rem 1rem 3rem 1rem;
-}
-.cid-qFuy4loJsL .card-img {
-  padding-bottom: 2rem;
-}
-.cid-qFuy4loJsL .mbr-text {
-  color: #767676;
-}
-.cid-qFuy4loJsL span {
-  font-size: 14px;
-  color: #ffffff;
-}
-.cid-qFuy4loJsL .mbr-section-btn {
-  margin-left: 0;
-}
-.cid-qFuy4loJsL .date span {
-  display: inline-block;
-  background-color: #3e97d1;
-  padding: 0.2rem 1rem;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  max-width: 90%;
-  overflow: hidden;
-}
-@media (max-width: 767px) {
-  .cid-qFuy4loJsL .card-title {
-    text-align: center;
-  }
-  .cid-qFuy4loJsL p.mbr-text,
-  .cid-qFuy4loJsL p.date {
-    text-align: center;
-  }
-}
-.cid-qFuy2LeoJi {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #ffda73;
-}
-.cid-qFuy2LeoJi .card {
-  padding: 1rem 1rem 3rem 1rem;
-}
-.cid-qFuy2LeoJi .card-img {
-  padding-bottom: 2rem;
-}
-.cid-qFuy2LeoJi .mbr-text {
-  color: #03426a;
-}
-.cid-qFuy2LeoJi span {
-  font-size: 14px;
-  color: #ffffff;
-}
-.cid-qFuy2LeoJi .mbr-section-btn {
-  margin-left: 0;
-}
-.cid-qFuy2LeoJi .date span {
-  display: inline-block;
-  background-color: #3e97d1;
-  padding: 0.2rem 1rem;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  max-width: 90%;
-  overflow: hidden;
-}
-@media (max-width: 767px) {
-  .cid-qFuy2LeoJi .card-title {
-    text-align: center;
-  }
-  .cid-qFuy2LeoJi p.mbr-text,
-  .cid-qFuy2LeoJi p.date {
-    text-align: center;
-  }
 }
 .cid-qGRMeVrvVs {
   padding-top: 0px;
@@ -2039,6 +1941,84 @@ body {
 .cid-qGWGxAA0qe .mbr-title,
 .cid-qGWGxAA0qe .underline B {
   color: #000000;
+}
+.cid-qFuy2LeoJi {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #ffda73;
+}
+.cid-qFuy2LeoJi .card {
+  padding: 1rem 1rem 3rem 1rem;
+}
+.cid-qFuy2LeoJi .card-img {
+  padding-bottom: 2rem;
+}
+.cid-qFuy2LeoJi .mbr-text {
+  color: #03426a;
+}
+.cid-qFuy2LeoJi span {
+  font-size: 14px;
+  color: #ffffff;
+}
+.cid-qFuy2LeoJi .mbr-section-btn {
+  margin-left: 0;
+}
+.cid-qFuy2LeoJi .date span {
+  display: inline-block;
+  background-color: #3e97d1;
+  padding: 0.2rem 1rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 90%;
+  overflow: hidden;
+}
+@media (max-width: 767px) {
+  .cid-qFuy2LeoJi .card-title {
+    text-align: center;
+  }
+  .cid-qFuy2LeoJi p.mbr-text,
+  .cid-qFuy2LeoJi p.date {
+    text-align: center;
+  }
+}
+.cid-qFuy4loJsL {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-qFuy4loJsL .card {
+  padding: 1rem 1rem 3rem 1rem;
+}
+.cid-qFuy4loJsL .card-img {
+  padding-bottom: 2rem;
+}
+.cid-qFuy4loJsL .mbr-text {
+  color: #767676;
+}
+.cid-qFuy4loJsL span {
+  font-size: 14px;
+  color: #ffffff;
+}
+.cid-qFuy4loJsL .mbr-section-btn {
+  margin-left: 0;
+}
+.cid-qFuy4loJsL .date span {
+  display: inline-block;
+  background-color: #3e97d1;
+  padding: 0.2rem 1rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 90%;
+  overflow: hidden;
+}
+@media (max-width: 767px) {
+  .cid-qFuy4loJsL .card-title {
+    text-align: center;
+  }
+  .cid-qFuy4loJsL p.mbr-text,
+  .cid-qFuy4loJsL p.date {
+    text-align: center;
+  }
 }
 #custom-html-19 {
   /* Type valid CSS here */
